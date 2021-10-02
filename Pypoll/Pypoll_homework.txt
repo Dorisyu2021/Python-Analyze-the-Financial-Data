@@ -1,0 +1,8 @@
+The total number of votes cast is 3521001
+The Candidates who received votes are {'Khan': 2218231, 'Correy': 704200, 'Li': 492940, "O'Tooley": 105630}
+Khan:63.00%
+Correy:20.00%
+Li:14.00%
+O'Tooley:3.00%
+
+Winner:Khan
