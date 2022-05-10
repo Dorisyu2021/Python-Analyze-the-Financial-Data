@@ -18,6 +18,8 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 My work like those:
+![p1!](Pybank1.png)
+![p2!](Pybank2.png)
 
 
 
@@ -38,3 +40,5 @@ The total number of votes each candidate won
 The winner of the election based on popular vote.
 
 Here are my work:
+![n1!](Screenshot_1.png)
+![n2!](Screenshot_2.png)
